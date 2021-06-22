@@ -1,0 +1,16 @@
+-------------------------------------------------------------
+Weather Stats for - BARDOLI  || 22 Jun 2021 | 09:09:09 AM
+------------------------------------------------------------
+Current temperature is:29.860000000000014deg C
+Current weather desc  :broken clouds
+Current Humidity      :53 %
+urrent wind speed    :4.46 kmph
+
+-------------------------------------------------------------
+Weather Stats for - SURAT  || 22 Jun 2021 | 09:16:09 AM
+------------------------------------------------------------
+Current temperature is:29.99000000000001deg C
+Current weather desc  :haze
+Current Humidity      :74 %
+urrent wind speed    :1.03 kmph
+
